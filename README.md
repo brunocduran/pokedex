@@ -3,6 +3,12 @@
   Desenvolvido por: Bruno César Duran
 </p>
 
+# :mag_right: Preview
+<p align="center">
+  <img width="70%" src="./src/images/index.png" />
+  <img width="70%" src="./src/images/charizard.png" />
+</p>
+
 # :computer: Projeto
 Esta aplicação web tem o intuito de listar e detalhar uma Pokédex. Foi desenvolvido com fins educacionais, para ser apresentado na matéria Ferramentas de Desenvolvimento Web, do curso de Sistemas de Informação da FEF.
 
